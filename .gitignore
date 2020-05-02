@@ -8,6 +8,7 @@
 .dart_tool/
 pubspec.lock
 flutter_export_environment.sh
+.flutter-plugins-dependencies
 
 examples/all_plugins/pubspec.yaml
 
@@ -41,3 +42,4 @@ build/
 .project
 .classpath
 .settings
+
